@@ -1,4 +1,4 @@
-package com.servi.cloud.register.register;
+package com.servi.cloud.register;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
